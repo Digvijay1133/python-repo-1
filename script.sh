@@ -11,22 +11,7 @@ pip3 install -r requirements.txt
 screen -m -d python3 app.py
 
 
-git clone https://github.com/Digvijay1133/USA-House-Pricing-python.git
-cd USA-House-Pricing-python
-pip3 install -r requirements.txt
-screen -m -d python3 app.py
 
 
 
-git clone https://github.com/Digvijay1133/FISH-WEIGHT-python.git
-cd FISH-WEIGHT-python
-pip3 install -r requirements.txt
-screen -m -d python3 app.py
-
-
-
-git clone https://github.com/Digvijay1133/LIVER-PATIENT-python.git
-cd LIVER-PATIENT-python
-pip3 install -r requirements.txt
-screen -m -d python3 app.py
 
